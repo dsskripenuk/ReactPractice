@@ -1,0 +1,21 @@
+.imgStyle{
+    border-radius: 50%;
+    width: 64px;
+    height: 64px;
+}
+
+.navStyle{
+    background-color: #134576;
+}
+
+span{
+    color: #7E8ED9;
+}
+
+.dmargin{
+    margin: 7px;
+}
+
+.color {
+    color: #73A0EC;
+}
